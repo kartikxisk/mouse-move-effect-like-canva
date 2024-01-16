@@ -32,6 +32,6 @@ body {
     transform: translateY(0%) scale(1) rotate(0deg);
   }
   100% {
-    transform: translateY(300%) scale(0.7) rotate(90deg);
+    transform: translateY(300%) scale(0.7) rotate(100deg);
   }
 }
