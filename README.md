@@ -10,16 +10,13 @@ https://mouse-move-effect-like-canva-9zskxyuo4-kartikkumar13.vercel.app/
 
 
 #### Features
-Dynamic Interactions: Dots and glows respond to mouse movements within the container.
-Randomized Colors: Dots feature randomized colors for a vibrant display.
-Animation: Smooth animation enhances the visual appeal of the effect.
-Installation
-Clone the repository:
+- Dynamic Interactions: Dots and glows respond to mouse movements within the container.
+- Randomized Colors: Dots feature randomized colors for a vibrant display.
+- Animation: Smooth animation enhances the visual appeal of the effect.
 
-#### bash
-Copy code
-git clone https://github.com/kartikxisk/mouse-move-effect-like-canva.git
-Open index.html in your web browser.
+#### Installation
+- Clone the repository: git clone https://github.com/kartikxisk/mouse-move-effect-like-canva.git
+- Open index.html in your web browser.
 
 #### Usage
 Open the project in your preferred code editor.
