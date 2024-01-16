@@ -5,6 +5,7 @@ This project implements a Canva-like mouse move effect using HTML, CSS, and Java
 
 #### Demo
 https://mouse-move-effect-like-canva-9zskxyuo4-kartikkumar13.vercel.app/
+
 ![image](https://github.com/kartikxisk/mouse-move-effect-like-canva/assets/54768757/75afbf47-0e96-4347-889d-064435cc84d6)
 
 
