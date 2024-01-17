@@ -23,7 +23,7 @@ const dot = (positionX, postionY) => {
   dot.style.top = `${postionY}px`;
   dot.innerHTML = `
     <svg
-      style="color:${setRandomColor()};height:1rem;width:1rem"
+      style="color:${setRandomColor()};height:0.8rem;width:0.8rem"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 24 24"
       fill="currentColor"
