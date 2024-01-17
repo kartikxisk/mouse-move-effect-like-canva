@@ -23,11 +23,10 @@ const dot = (positionX, postionY) => {
   dot.style.top = `${postionY}px`;
   dot.innerHTML = `
     <svg
-      style="color:${setRandomColor()}"
+      style="color:${setRandomColor()};height:100%;width:100%"
       xmlns="http://www.w3.org/2000/svg"
       viewBox="0 0 24 24"
       fill="currentColor"
-      class="w-6 h-6"
     >
       <path
         fill-rule="evenodd"
